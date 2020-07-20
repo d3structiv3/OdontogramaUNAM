@@ -173,6 +173,7 @@
     <Content Include="img\bloqueado.svg" />
     <Content Include="img\clin.jpg" />
     <Content Include="img\estudiante.jpg" />
+    <Content Include="img\IPN.png" />
     <Content Include="img\odonto.jpg" />
     <Content Include="img\paciente.svg" />
     <Content Include="img\desbloqueado.svg" />
@@ -193,7 +194,12 @@
     <Content Include="img\t3.svg" />
     <Content Include="img\tres.jpg" />
     <Content Include="img\tw.png" />
+    <Content Include="img\UA.png" />
+    <Content Include="img\UAM.jpg" />
+    <Content Include="img\UNAM.png" />
+    <Content Include="img\UNITEC.png" />
     <Content Include="img\uno.jpg" />
+    <Content Include="img\UVM.jpg" />
     <Content Include="img\yt.png" />
     <Content Include="Models\Odo\Odontograma.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
